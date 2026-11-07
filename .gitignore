@@ -1,0 +1,23 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+# Private keys, device credentials and recordings
+*.jks
+*.keystore
+*.der
+*.pem
+.env
+.env.*
+*.pcm
+*.wav
+*.apk
+*.apks
+*.aab
+# Proprietary reference artifacts and local investigation dumps
+analysis/
+dist/
